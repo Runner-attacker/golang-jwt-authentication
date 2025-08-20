@@ -15,6 +15,7 @@ This project provides user registration, login, and protected routes with token-
 ---
 
 ## 📂 Project Structure
+
 golang-jwt-authentication/
 ├── main.go # Entry point
 ├── middleware/ # JWT middleware
@@ -24,6 +25,7 @@ golang-jwt-authentication/
 ├── .env # Environment variables (not committed)
 ├── go.mod # Go module file
 └── README.md # Project documentation
+
 
 
 ---
